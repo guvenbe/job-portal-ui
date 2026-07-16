@@ -3,7 +3,18 @@
     "allow": [
       "Bash(gh auth *)",
       "Bash(gh repo *)",
-      "Bash(git checkout *)"
+      "Bash(git checkout *)",
+      "Bash(gh pr *)",
+      "Bash(git pull *)",
+      "Bash(git branch *)",
+      "Bash(git push *)",
+      "Bash(git stash *)",
+      "Bash(gh issue *)",
+      "Bash(npm run *)",
+      "Bash(git add *)",
+      "Bash(git commit -q -m ' *)",
+      "Bash(git fetch *)",
+      "Bash(npx eslint *)"
     ]
   }
 }
